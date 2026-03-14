@@ -128,31 +128,6 @@ Estimated house price prediction.
 
 ------------------------------------------------------------------------
 
-## Future Improvements
-
-Possible enhancements:
-
--   Use advanced models such as Random Forest or Gradient Boosting
--   Add location dropdown instead of text input
--   Improve feature engineering
--   Deploy the application online
--   Add interactive visualizations
-
-------------------------------------------------------------------------
-
-## Deployment Options
-
-This project can be deployed using:
-
--   Streamlit Community Cloud
--   Render
--   HuggingFace Spaces
-
-These platforms allow recruiters to test the application directly from
-the browser.
-
-------------------------------------------------------------------------
-
 ## Author
 
 Pragha
